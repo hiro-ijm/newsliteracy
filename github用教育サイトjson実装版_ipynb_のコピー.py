@@ -10,7 +10,6 @@ Original file is located at
 **【必要ライブラリのインポート】**
 """
 
-!pip install streamlit
 import random
 import json
 import streamlit as st # 💡 ipywidgetsの代わりにStreamlitをインポート
